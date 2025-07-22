@@ -16,9 +16,6 @@ The dashboard enables stakeholders to:
 - Examine **country-wise sales contribution** with a donut chart.
 - Evaluate **sales performance by individual salespersons**.
 
-## 🖼️ Screenshot
-
-![Chocolate Sales Analysis Dashboard](./Screenshot%202025-07-22%20164210.png)
 
 ## 🔍 Key Insights
 
