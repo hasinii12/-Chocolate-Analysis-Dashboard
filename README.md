@@ -1,27 +1,49 @@
-🍫 Chocolate Analysis Dashboard (Power BI)
-This Power BI report provides a comprehensive analysis of chocolate ratings and related attributes. The dashboard offers insights into various factors that influence chocolate quality and perception, including:
+# 🍫 Chocolate Sales Analysis Dashboard (Power BI)
 
-📊 Key Features
-Country-wise analysis of chocolate makers
+This repository contains an interactive Power BI dashboard that presents in-depth insights into chocolate sales performance. It covers sales trends, product popularity, regional contributions, and performance of sales personnel over time.
 
-Rating distribution across different companies and regions
+## 📁 File Included
 
-Bean origin analysis to identify top-rated sources
+- `chocolate analysis.pbix` – Power BI Desktop report file containing data modeling, visuals, and KPIs.
 
-Cocoa percentage trends and its impact on flavor scores
+## 📊 Dashboard Highlights
 
-Visualization of data using bar charts, maps, slicers, and filters for interactive exploration
+The dashboard enables stakeholders to:
 
-🔍 Data Insights
-Evaluate how cocoa content correlates with ratings
+- Analyze **monthly sales performance** using a line and area chart.
+- Track **total sales amount and number of boxes sold** within a date range.
+- Identify **top-performing chocolate products** by sales amount.
+- Examine **country-wise sales contribution** with a donut chart.
+- Evaluate **sales performance by individual salespersons**.
 
-Discover which countries produce the highest-rated chocolates
+## 🖼️ Screenshot
 
-Identify trends in bean origins and their flavor profiles
+![Chocolate Sales Analysis Dashboard](./Screenshot%202025-07-22%20164210.png)
 
-🛠 Tools Used
-Power BI Desktop
+## 🔍 Key Insights
 
-DAX measures and calculated columns
+- Highest sales were recorded in **July 2023 (1.64M)** and **April 2024 (1.62M)**.
+- **USA** and **UK** contribute the largest share of sales.
+- Products like **Orange Choco**, **Drinking Coco**, and **99% Dark & Bold** lead in sales.
+- Top salesperson: **Karlen McCaffrey** with **~756K** in sales.
 
-Interactive visualizations
+## 📌 Tools & Technologies
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Interactive Visualizations**: Line charts, bar graphs, donut chart, slicers, filters
+
+## 🚀 How to Use
+
+1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Clone this repository or download the `.pbix` file.
+3. Open `chocolate analysis.pbix` in Power BI Desktop.
+4. Use slicers and visuals to explore trends, insights, and patterns.
+
+## 📝 License
+
+This project is intended for learning and portfolio demonstration purposes.
+
+---
+
+📬 *Feel free to fork this project, suggest improvements, or adapt it for your own analytics work!*
