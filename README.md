@@ -15,6 +15,10 @@ The dashboard enables stakeholders to:
 - Identify **top-performing chocolate products** by sales amount.
 - Examine **country-wise sales contribution** with a donut chart.
 - Evaluate **sales performance by individual salespersons**.
+## 🖼️ Screenshot
+
+[View Chocolate Sales Dashboard Screenshot](https://github.com/hasinii12/-Chocolate-Analysis-Dashboard/blob/main/Screenshot%202025-07-22%20164210.png)
+
 
 
 ## 🔍 Key Insights
